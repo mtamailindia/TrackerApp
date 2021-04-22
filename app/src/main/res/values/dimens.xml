@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size">16sp</dimen>
+    <dimen name="text_size_total_paid">12sp</dimen>
+    <dimen name="btn_height">40dp</dimen>
+    <dimen name="summery_padding">13dp</dimen>
+</resources>
